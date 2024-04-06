@@ -10,3 +10,7 @@ Em suma, ao girar o parafuso na base do sensor para a esquerda a distância é d
 <div align="center">
   <img alt="Imagem de explição" src="./explicacao.jpg">
 </div>
+
+Achei esse sensor muito bacana e muito útil para projetos até porque ele tem já consigo uma mecanismo girátorio que facilita prende-lo em alguma estrutura, mas infelizmente não me será útil, pois já que segue os mesmos moldes do sensor TCRT5000, ele acaba não detectando objetos de tom muito escuro ou pretos. Sendo assim acaba não sendo o ideal para substituir o sensor TCR5000, já que acabaria sofrendo dos mesmos problemas.
+
+Porém para projetos futuros que ainda não estejam adaptados a distância do sensor TCRT5000, o sensor E18-D80NK acaba se provando uma alternativa mais fácil já que é possível ajustar a distância.
