@@ -6,3 +6,7 @@ Em resumo, o sensor E18-D80NK pode ser considerado uma "melhora" do sensor TCRT5
   
 A grande diferença é que, o sensor TCR5000 tem sua distância fixa de 2cm e não é possível alterar, já o sensor E18-D80NK é possível regular, este código é parecido com o do projeto [Sensor_TCRT5000_e_Leds](https://github.com/Victor-Lis/Sensor_TCRT5000_e_Leds), porém utilizando o sensor E18-D80NK e ao detectar movimento ele liga uma led de cor verde.
 
+Em suma, ao girar o parafuso na base do sensor para a esquerda a distância é diminuida, já girando para direita é aumentada, seguindo exemplo da foto abaixo:
+<div align="center">
+  <img alt="Imagem de explição" src="./explicacao.jpg">
+</div>
